@@ -4,7 +4,7 @@ Bonjour à tous,  Je suis Loïc un , passionné par la cybersécurité, le déve
 **PROJETS ET OBJECTIFS**
 Sur ce profil je prévois publier une variété de contenu techniques:
 - tutoriel détaillé pour vous aider à maitriser certains outils et des techniques spécifiques à la cybersécurité
-- Des Analyses approfondies sur des vulnérabilités récentes, expliquant comment les identifiers et les atténuer
+- Des Analyses approfondies sur des vulnérabilités récentes
 - Des meilleurs pratiques de sécurité pour sécurisé vos applications et infrastructure
 
 **REJOINEZ MOI!!**
