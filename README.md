@@ -1,10 +1,10 @@
 # Mon-portefolio-technique
 Bonjour à tous,  Je suis Loïc un , passionné par la cybersécurité, le développement logiciel, le cloud. Je suis ravi de vous accueillir sur mon profil GitHub, où je vais partager des contenus enrichissants sur des sujets qui me passionnent.
 
-**PROJETS ET OBJECTIF**
+**PROJETS ET OBJECTIFS**
 Sur ce profil je prévois publier une variété de contenu techniques:
-- tutoriel détaillé pour vous aidé à maitriser certains outils et des techniques spécifique à la cybersécurité
-- Des Analyses approfondie sur des vulnérabilités récentes
+- tutoriel détaillé pour vous aider à maitriser certains outils et des techniques spécifiques à la cybersécurité
+- Des Analyses approfondies sur des vulnérabilités récentes, expliquant comment les identifiers et les atténuer
 - Des meilleurs pratiques de sécurité pour sécurisé vos applications et infrastructure
 
 **REJOINEZ MOI!!**
