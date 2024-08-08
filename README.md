@@ -8,7 +8,7 @@ Sur ce profil je prévois publier une variété de contenu techniques:
 - Des meilleurs pratiques de sécurité pour sécurisé vos applications et infrastructure
 
 **REJOINEZ MOI!!**
-Que vous soyez débutant ou expert en cybersécurité, n'hésitez pas à vous abonner à mon profil et à interagir avec moi. Je serai ravi de répondre à vos questions, de discuter de vos retours et même d'explorer de nouveaux sujets ensemble.
+Que vous soyez débutant ou expert en cybersécurité, développement, cloud, n'hésitez pas à vous abonner à mon profil et à interagir avec moi. Je serai ravi de répondre à vos questions, de discuter de vos retours et même d'explorer de nouveaux sujets ensemble.
 Merci d'avoir pris le temps de me découvrir. J'ai hâte de partager mes connaissances et d'apprendre de vous !
 Cordialement,
 Loïc
