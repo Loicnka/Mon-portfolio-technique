@@ -26,7 +26,7 @@ Maîtrise des outils de scan de vulnérabilités Nessus, Nmap
 <br> <a href="https://youtu.be/9GZXbefof28">vidéo de démonstration</a>
 
 - SIMULATION D'UNE ATTAQUE DE MITM
- <br> Capacité à intercepter le trafic réseau entre deux parties (par exemple, un client et un serveur) en utilisant des techniques comme le spoofing ARP (Address Resolution Protocol).
+ <br> Capacité à intercepter le trafic réseau entre deux parties (par exemple, un client et un serveur) en utilisant des techniques comme l'ARP spoofing.
  <br> Compétence à injecter, modifier ou supprimer des paquets dans une session interceptée pour manipuler les communications en temps réel
  <br> Compétence à utiliser Wireshark pour capturer, filtrer, et analyser le trafic réseau intercepté.
 <br> <a href="https://youtu.be/aD-NSMzq5PU">vidéo de démonstration</a>
