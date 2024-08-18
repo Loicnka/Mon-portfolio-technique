@@ -1,6 +1,4 @@
 
-
-
 # Hello, I'm LOIC
 <a href="https://www.linkedin.com/in/loic-nkamwa2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -8,7 +6,7 @@ Je suis un jeune diplômé qui s'intéresse de près à la technologie et qui s'
 
 ## Objective
 
-Mon parcours en informatique m'a amené à développer une passion pour la cybersécurité, et je suis maintenant désireux de passer à ce domaine, en particulier de rejoindre un centre d'opérations de sécurité (SOC) en tant qu'analyste de niveau 1.
+Mon parcours en informatique m'a amené à développer une passion pour la cybersécurité, le développement et je suis maintenant désireux de  rejoindre une équipe  en tant qu'ingénieur cybersécurité ou devsecops. 
 
 
 ### Compétences clés
