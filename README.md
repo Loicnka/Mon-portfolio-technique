@@ -31,9 +31,9 @@ Maîtrise des outils de scan de vulnérabilités Nessus, Nmap
  <br> Compétence à utiliser Wireshark pour capturer, filtrer, et analyser le trafic réseau intercepté.
 <br> <a href="https://youtu.be/aD-NSMzq5PU">vidéo de démonstration</a>
 
-<!-- - IDENTIFICATION DE VULNERABILITES
-Skill|learned
-link|artefact -->
+- DETECT TYPO SQUATTING AND PHISHING with DNSTWIST.py
+  <br> j'ai acquis une expérience pratique en utilisant dnstwist.py pour détecter les squatters typographiques et les domaines de phishing. Cette compétence est essentielle pour les analystes des renseignements sur les menaces et les professionnels de la cybersécurité afin de protéger leurs organisations et leurs utilisateurs contre les attaques de phishing potentielles et l'usurpation d'identité de marque.
+  <br> <a href="https://youtu.be/lfj156Xy7II"> vidéo de démonstration </a>
 
 
 
