@@ -1,0 +1,13 @@
+Analyse Forensic – Challenge Root-Me : Memory Forensics
+1. Introduction
+Dans ce challenge, l'objectif était d'analyser un fichier de dump mémoire pour identifier des traces d'activité malveillante. Ce défi permettait de mettre en pratique des compétences en analyse forensic, comme la récupération d'informations sensibles et l'identification de processus suspects.
+
+2. Contexte
+Nom du challenge : Memory Forensics 1
+Fichier fourni : memory_dump.raw (taille : 512 Mo)
+Objectif : Identifier le flag caché dans le fichier mémoire.
+Outils utilisés :
+Volatility : Analyse du dump mémoire.
+Strings : Extraction de chaînes de caractères lisibles.
+Wireshark : Analyse de données réseau encapsulées.
+3. Approche et Méthodologie
