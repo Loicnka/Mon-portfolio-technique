@@ -12,6 +12,7 @@ Mon parcours en informatique m'a amené à développer une passion pour la cyber
 ### Compétences clés
 - Test de pénétration
 - Threat intellingence
+- Devops
 - Osint
 - Threat Hunting
 - GRC
@@ -38,12 +39,10 @@ Maîtrise des outils de scan de vulnérabilités Nessus, Nmap
 
 
 ## Certifications
-<div>
-<img src="https://miro.medium.com/v2/resize:fit:110/format:webp/1*jFyOQUw8nf3mTp7QV1pefQ.png" />
-<img src="https://miro.medium.com/v2/resize:fit:110/format:webp/1*KjpRHQuaF0X0Kcb5lpWY_A.png" />
-<img src="https://i0.wp.com/training.cellenza.com/wp-content/uploads/2021/07/AZ500.png?w=75&ssl=1" />
+- ISC²
+- Comptia Sécurity + (en cours)
+- Azure 900 (en cours)
 
-</div>
 
 
 
