@@ -12,11 +12,10 @@ Mon parcours en informatique m'a amené à développer une passion pour la cyber
 ### Compétences clés
 - Test de pénétration
 - Threat intellingence
-- Devops
 - Osint
-- Threat Hunting
-- GRC
-- Développement
+- Gestion des vulnérabilités
+- Analyse des risques
+- Développement / Devops
 
 
 ## Accéder à mes différents projets
@@ -49,4 +48,4 @@ Maîtrise des outils de scan de vulnérabilités Nessus, Nmap
 <br> Que vous soyez débutant ou expert en cybersécurité, développement, sécurité cloud, n'hésitez pas à vous abonner à mon profil et à interagir avec moi. Je serai ravi de répondre à vos questions, de discuter de vos retours et même d'explorer de nouveaux sujets ensemble.
 Merci d'avoir pris le temps de me découvrir. J'ai hâte de partager mes connaissances et d'apprendre de vous !
 <br> Cordialement,
-Loïc
+<br>Loïc
