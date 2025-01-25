@@ -1,5 +1,5 @@
 # Securisation d'un SI
-## Scénario
+## Scenario
 L’entreprise « Tenable » est une nouvelle société spécialisée en communication, récemment établie sous la direction de Monsieur Tenable Lionel, ancien technicien informatique reconverti en stratégie marketing et communication.Il sollicite votre expertise pour concevoir et configurer son réseau informatique. En tant que freelance avec un emploi du temps chargé, vous acceptez cette mission, précisant toutefois que vous ne pourrez pas assurer la maintenance continue de l’infrastructure une fois celle-ci mise en place.
 
 ### Mission
