@@ -40,7 +40,7 @@ Maîtrise des outils de scan de vulnérabilités Nessus, Nmap
 ## Certifications
 - ISC²
 - Comptia Sécurity + (en cours)
-- Azure 900 (en cours)
+- Azure 900
 
 
 
